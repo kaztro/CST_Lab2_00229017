@@ -1,3 +1,4 @@
+/*El codigo base le pertenece a https://github.com/Sortweste/-TSC-Laboratorio2*/
 #include <fstream>
 #include <iostream>
 
